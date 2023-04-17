@@ -12,7 +12,6 @@ Hello Fellow Homo saepians🧑 and others👽... This is your guy and his laptop
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
-[![](https://github-readme-stats.vercel.app/api?username=Falcon00007)](https://github.com/Falcon00007)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falcon00007&layout=compact)](https://github.com/Falcon00007)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Falcon00007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
