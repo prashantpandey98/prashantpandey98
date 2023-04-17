@@ -1,6 +1,9 @@
-
 # Heyy!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Prashant Pandey
 Hello fellow Homo Saepians🧑 and others👽... This is your guy and his laptop🧑‍💻 working together in sync to make some epic stuff!! 
+
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="center">
 <a href="https://https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="falcontweets" height="30" width="80" /></a>
