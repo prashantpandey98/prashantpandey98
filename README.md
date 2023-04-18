@@ -7,10 +7,10 @@ Hello fellow Homo Saepians🧑 and others👽... This is your guy and his laptop
 </div>
 
 <p align="center">
-<a href="https://https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="falcontweets" height="30" width="80" /></a>
-<a href="https://www.linkedin.com/in/prashant-pandey-5350211a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Pandey-LinkedIn" height="30" width="80" /></a>
-<a href="https://www.instagram.com/_prashhhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta-prashant" height="30" width="80" /></a>
-  <a href="https://www.facebook.com/prashantfalcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prashantfalcon" height="30" width="80" /></a> 
+<a href="https://https://twitter.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="falcontweets" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/prashant-pandey-5350211a2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prashant-Pandey-LinkedIn" height="30" width="80" /></a>
+<a href="https://www.instagram.com/_prashhhant" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta-prashant" height="30" width="80" /></a>
+  <a href="https://www.facebook.com/prashantfalcon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prashantfalcon" height="30" width="80" /></a> 
   <a href = "mailto:yofalcon98@gmail.com"><img align="center" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="80" /></a>
 </p>
@@ -26,22 +26,22 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 <h3 align="center">Languages & Techs:</h3>
 <p align="center">  
   
-   <a href="https://www.w3schools.com/html">
+   <a href="https://www.w3schools.com/html" target="_blank">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a>
-  <a href="https://www.w3schools.com/css/">
+  <a href="https://www.w3schools.com/css/" target="_blank">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org/" target="_blank">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
- <a href="https://nodejs.org">
+ <a href="https://nodejs.org" target="_blank">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/" target="_blank">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
