@@ -16,11 +16,11 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Falcon00007&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=prashantpandey98&style=flat-square&color=blue" alt=""/>
 </div>
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon00007&show_icons=true&locale=en&layout=compact" width="49%" alt="lang" />
-    <img  src="https://github-readme-stats.vercel.app/api?username=Falcon00007&show_icons=true&locale=en" alt="stats" width="50%" /></p>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantpandey98&show_icons=true&locale=en&layout=compact" width="49%" alt="lang" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=prashantpandey98&show_icons=true&locale=en" alt="stats" width="50%" /></p>
   </p>
 
 <h3 align="center">Languages & Techs:</h3>
@@ -63,15 +63,15 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Falcon00007&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantpandey98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope:I make websites and web applications as a hobby 😄.
 - :seedling: Exploring Web Development and UI/UX Design.
-- :zap: In my free time, I read novels, binge watch shows and rack my brains🧠.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Prashant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-pandey-5350211a2)
+- :zap: In my free time, I read novels,play volleyball, binge watch shows and rack my brains🧠.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Prashant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashantpandey98)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
